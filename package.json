@@ -1,0 +1,21 @@
+{
+  "name": "20210322-making-coffee",
+  "version": "1.0.0",
+  "description": "Converting my \"making coffee\" flow chart to JavaScript code.",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module",
+    "start": "node 1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvolveU-FSD/making-coffee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvolveU-FSD/making-coffee/issues"
+  },
+  "homepage": "https://github.com/EvolveU-FSD/making-coffee#readme"
+}
